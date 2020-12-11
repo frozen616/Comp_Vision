@@ -11,3 +11,4 @@ This code uses the MNIST data set and build a model trains the model and does di
 The model can predict written letter to an accuraccy of over 98%.
 
 Angus_Tyler_Histogram_matching.ipynb - This code analizes the different features of histogram matching. It uses 'coerrelation', 'chi-squared', 'Intersection', and 'Hellinger'.
+![histogram_image](https://user-images.githubusercontent.com/40275175/101941467-42207c80-3ba5-11eb-8cec-3d7ac1d5e670.JPG)
