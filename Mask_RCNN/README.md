@@ -15,7 +15,7 @@ https://github.com/TannerGilbert/MaskRCNN-Object-Detection-and-Segmentation/blob
 https://towardsdatascience.com/computer-vision-instance-segmentation-with-mask-r-cnn-7983502fcad1 
 The article does a good job of explaining what a Mask R-CNN is.
 
-
+![pasted image 0](https://user-images.githubusercontent.com/40275175/101940633-03d68d80-3ba4-11eb-88cd-86ec2326b50d.png)
 
 A key feature is that a Mask R-CNN doesn’t just have 2 outputs but 3. It outputs an object class, a bounding box, and a mask.
 The model actually uses a CNN to predict the mask of the object. An image is put through a CNN after which outputs a feature map.
