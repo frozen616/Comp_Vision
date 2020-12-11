@@ -2,11 +2,17 @@ CV_OpenCV_Tyler_Angus.ipynb - This is my first homework assigment that shows exa
 
 Erosion:
 ![original j](https://user-images.githubusercontent.com/40275175/101941791-b824e380-3ba5-11eb-80a7-2f3b715c0d73.png)
+
+The above image is the original
+
 ![erosion j](https://user-images.githubusercontent.com/40275175/101941847-cd017700-3ba5-11eb-9ce9-de36fe22fc8e.png)
-You can see the original image and the eroded image has become more fine.
+
+The above image is the original image after a erosion
 
 Dilation:
 ![dilation](https://user-images.githubusercontent.com/40275175/101941975-01753300-3ba6-11eb-88d5-04e213574840.png)
+
+The above image is the original image after a dilation
 
 
 
