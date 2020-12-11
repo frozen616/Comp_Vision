@@ -27,7 +27,10 @@ CV_Concept_Neural_Network_Tyler_Angus.ipynb - This code is short and simple and 
 
 CV_CNN_Classifier_Tyler_Angus.ipynb - This code is a full build of a Convolution Nueral Network. 
 This code uses the MNIST data set and build a model trains the model and does different analysis to figure out what gives you more accurate results when detecting letters. 
-The model can predict written letter to an accuraccy of over 98%.
+The model can predict written letter to an accuraccy of over 98%.'
+
+![cnn](https://user-images.githubusercontent.com/40275175/101942671-21592680-3ba7-11eb-83ae-ca815d6c8a46.JPG)
+
 
 Angus_Tyler_Histogram_matching.ipynb - This code analizes the different features of histogram matching. It uses 'coerrelation', 'chi-squared', 'Intersection', and 'Hellinger'.
 ![histogram_image](https://user-images.githubusercontent.com/40275175/101941467-42207c80-3ba5-11eb-8cec-3d7ac1d5e670.JPG)
